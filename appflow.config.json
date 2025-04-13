@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "appId": "79eff9b5",
+      "root": "apps/app",
+      "dependencyInstallCommand": "npm install -g corepack@latest && cd ../../ && pnpm install",
+      "webBuildCommand": "cd ../../ && pnpm run build"
+    }
+  ]
+}

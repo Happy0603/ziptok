@@ -1,0 +1,16 @@
+# Pattern
+**/.env
+**/.env.local
+**/.git
+**/.gitignore
+**/.next
+**/.turbo
+**/*.tar
+**/pnpm-lock.yaml
+**/dist
+**/node_modules
+**/out
+
+# Specific
+apps/app/android
+apps/app/ios

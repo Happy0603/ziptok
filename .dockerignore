@@ -1,0 +1,14 @@
+# Pattern
+**/.env
+**/.env.local
+**/.git
+**/.gitignore
+**/.next
+**/.turbo
+**/*.tar
+**/dist
+**/node_modules
+**/out
+
+# Specific
+apps/app
